@@ -28,7 +28,7 @@ Features
 
 Setup Instructions
 Clone the Repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone 
 cd your-repo-name
 Create Virtual Environment (Recommended)
 python -m venv venv
